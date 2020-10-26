@@ -1,0 +1,2 @@
+haar_steps_1,haar_steps_2,haar_steps_3,haar_steps_4,haar_steps_5,haar_steps_6,haar_steps_7,haar_steps_8,haar_steps_9,haar_steps_10,haar_steps_11,haar_steps_12,haar_steps_13,haar_steps_14,haar_steps_15,haar_steps_16
+-0.20703125,0.1943359375,0.0087890625,0.3251953125,0.1015625,0.111328125,0.150390625,-0.6015625,-0.09765625,0.08984375,-0.12109375,-0.2578125,-0.13671875,0.6484375,0.546875,0

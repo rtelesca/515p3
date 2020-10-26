@@ -1,0 +1,2 @@
+haar_1,haar_2,haar_3,haar_4,haar_5,haar_6,haar_7,haar_8,haar_9,haar_10,haar_11,haar_12,haar_13,haar_14,haar_15,haar_16,haar_17,haar_18,haar_19,haar_20,haar_21,haar_22,haar_23,haar_24,haar_25,haar_26,haar_27,haar_28,haar_29,haar_30,haar_31,haar_32
+0.46875,0.53125,0.125,0.8125,-0.875,-1.625,-1.75,-0.375,1.75,-2,-2.25,-2,-2,-3.5,-2.25,3.5,1,-3.5,-3,0,3,-5.5,-5.5,-3.5,-3,-7,-6,0,-2.5,-4,-4,-1

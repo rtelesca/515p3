@@ -1,0 +1,2 @@
+haar_inv_1,haar_inv_2,haar_inv_3,haar_inv_4,haar_inv_5,haar_inv_6,haar_inv_7,haar_inv_8,haar_inv_9,haar_inv_10,haar_inv_11,haar_inv_12,haar_inv_13,haar_inv_14,haar_inv_15,haar_inv_16
+11,13,-2,2,-2,6,-12,0,0,12,-2,6,-9,-5,-9,-9

@@ -1,0 +1,2 @@
+iden_1,iden_2,iden_3,iden_4,iden_5,iden_6,iden_7,iden_8
+0,1,0,-1,0,1,0,-1

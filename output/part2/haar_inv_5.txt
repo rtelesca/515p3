@@ -1,0 +1,2 @@
+haar_inv_1,haar_inv_2,haar_inv_3,haar_inv_4,haar_inv_5,haar_inv_6,haar_inv_7,haar_inv_8,haar_inv_9,haar_inv_10,haar_inv_11,haar_inv_12,haar_inv_13,haar_inv_14,haar_inv_15,haar_inv_16,haar_inv_17,haar_inv_18,haar_inv_19,haar_inv_20,haar_inv_21,haar_inv_22,haar_inv_23,haar_inv_24,haar_inv_25,haar_inv_26,haar_inv_27,haar_inv_28,haar_inv_29,haar_inv_30,haar_inv_31,haar_inv_32
+-10,2,-4,-4,-10,2,16,0,1,15,21,11,19,7,5,-7,-3,9,12,14,3,9,-1,-11,4,6,10,-4,-1,9,-15,-9
