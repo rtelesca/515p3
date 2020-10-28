@@ -1,2 +1,2 @@
 haar_steps_1,haar_steps_2,haar_steps_3,haar_steps_4
-1.5,-1,-0.5,-0.5
+0.5,2.5,-0.5,-0.5

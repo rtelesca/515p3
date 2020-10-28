@@ -9,9 +9,8 @@ function c = haar(u)
          disp('vector dimension is not a power of 2');
          c = -1;
     else
-        cn = u;
 
-        tempc = cn;
+        tempc = u;
         
         for j = (n - 1):-1:0
            changec = tempc;

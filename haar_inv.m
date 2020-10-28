@@ -1,4 +1,6 @@
 %
+
+
 %  Program to compute the coefficients of a sequence of length 2^n given its
 %  coefficients over the Haar basis
 %
@@ -9,9 +11,8 @@ function u = haar_inv(c)
          disp('vector dimension is not a power of 2');
          u = -1;
     else
-        u0 = c;
 
-        tempu = u0;
+        tempu = c;
         
         for j = 0:(n - 1)
            changeu = tempu;

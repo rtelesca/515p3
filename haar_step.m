@@ -5,8 +5,23 @@
 %  
 %
 function c = haar_step(u,numstep)
-    c = u;
-    for i = 1:numstep
-       c = haar(c);
+    m = size(u, 2);
+    n = log2(m);
+    if (abs(round(n) - n) > .000001)
+         disp('vector dimension is not a power of 2');
+         c = -1;
+    else
+        
+        tempc = u;
+        
+        for j = (n - 1):-1:n - numstep
+           changec = tempc;
+           for i = 1:(2^j)
+                changec(1, i) = (tempc(2*i - 1) + tempc(2*i))/2;
+                changec(1, 2^j + i) = (tempc(2*i - 1) - tempc(2*i))/2;
+           end
+           tempc = changec;
+        end
+        c = tempc;
     end
 end
